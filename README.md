@@ -1,4 +1,5 @@
 # React Native Calendars 🗓️ 📆
+![Node.js CI](https://github.com/dylmye/react-native-calendars/workflows/Node.js%20CI/badge.svg)
 
 This module includes various customizable **React-Native** calendar components.
 
