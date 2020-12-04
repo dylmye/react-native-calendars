@@ -5,7 +5,7 @@
   "description": "React Native Calendar Components",
   "scripts": {
     "build": "xcodebuild -project ios/CalendarsExample.xcodeproj build",
-    "e2e": "node ./scripts/test-e2e.js --release",
+    "e2e": "node ./scripts/test-e2e.js --release --skipBuild",
     "test": "npm run lint && npm run unit && npm run e2e",
     "unit": "jest",
     "lint": "eslint src/ example/src",
